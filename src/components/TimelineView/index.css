@@ -1,0 +1,29 @@
+/* TimelineView Styles */
+.timeline-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.responsive-container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.header-container {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.heading {
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.ccbp-heading {
+  color: #007acc;
+}
